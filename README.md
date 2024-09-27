@@ -1,5 +1,5 @@
 ## Lucy Maber
-Welcome to my GitHub! I’m Lucy Maber, a passionate developer, advocate, and creator focused on a range of projects, from web development and data mining to trans advocacy and fact-checking. I have a particular interest in building tools that drive social change and exploring creative ways to gamify and analyze digital content.
+Welcome to my GitHub! I’m Lucy Maber, a passionate developer, advocate, and creator focused on a range of projects, from web development and data mining to pirate party, trans advocacy and fact-checking. I have a particular interest in building tools that drive social change and exploring creative ways to gamify and analyze digital content.
 
 ### 🔭 I’m currently working on:
 - BBC Video On Demand Plugin to analyze trans-related media content.
