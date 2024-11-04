@@ -4,7 +4,6 @@ Welcome to my GitHub! I’m Lucy Maber, a passionate developer, advocate, and cr
 ### 🔭 I’m currently working on:
 - BBC Video On Demand Plugin to analyze trans-related media content.
 - A fact-checking platform for articles and media, aligned with global standards.
-- A gamified tool to evaluate transphobic articles through community ratings.
 - Transmedia web crawlers for identifying transphobic dog whistles in mainstream media.
 - Pirate Party UK website to support digital engagement and transparency for the party's mission and goals.
 
